@@ -214,14 +214,14 @@ td{
 
 /*Normal css*/
 header {
-    background-color: #333;
+    background-color: #3d3f3f;
     color: #fff;
     width: 100%;
     position: sticky;
     top: 0;
     overflow: hidden;
     a:hover{
-        color: aqua;
+        color: rgb(202, 243, 243);
         font: 1em sans-serif;
         font-style: italic;
         margin-right: 25px;
@@ -230,12 +230,12 @@ header {
 }
 body {
     font-family: Arial, sans-serif;
-    background-color: #e4e2e2;
+    background-color: #bdeef5;
     color: #333;
     display: block;
 }
 .highlight{
-    color: orangered;
+    color: rgb(48, 245, 9);
 }
 footer {
     background-color: #333;
